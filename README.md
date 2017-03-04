@@ -1,2 +1,4 @@
-# encrypter
-luvit
+# Installation
+Do [lit install DannehSC/encrypter]
+# Usage
+
