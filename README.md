@@ -24,10 +24,10 @@ Each function usage:
 
 `local Encrypted_Data=Encryption_Library.Encrypt(data,Random_Key)`
 
-Returns the encrypted data.
+>Returns the encrypted data.
 
 *Decrypt*
 
 `local Decrypted_Data=Encryption_Library.Decrypt(Encrypted_Data,Random_Key)`
 
-Returns "Hello, this is a coding example."
+>Returns "Hello, this is a coding example."
