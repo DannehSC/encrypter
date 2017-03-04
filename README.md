@@ -1,4 +1,4 @@
 # Installation
-Do [lit install DannehSC/encrypter]
+Do `lit install DannehSC/encrypter
 # Usage
 
